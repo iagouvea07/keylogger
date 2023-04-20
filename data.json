@@ -1,0 +1,6 @@
+{
+    "addr":"some-email",
+    "pass":"some-pass",
+    "smtp":"some-smtp-server",
+    "port":"some-smtp-port"
+}
